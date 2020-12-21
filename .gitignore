@@ -1,4 +1,7 @@
+# git rm -r --cached .
+
 __pycache__/
 
 *.npy
 *.ckpt
+*.pkl
